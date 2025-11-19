@@ -18,11 +18,11 @@ A lightweight repo collecting Colab notebooks for modern fine-tuning and reinfor
 
 - **Colab3 — GRPO (gpt-oss 20B)**
   - Notebook: `Colab3_gpt_oss_(20B)_GRPO.ipynb`
-  - Open in Colab: https://colab.research.google.com/drive/REPLACE_WITH_YOUR_LINK
+  - Open in Colab: https://colab.research.google.com/drive/1gc9J67RRwrbSuYImxEsUo1miwgZyyW1s?usp=sharing
 
 - **Colab4 — Vision-Language GRPO (Qwen2.5 7B VL)**
   - Notebook: `Colab4_Qwen2_5_7B_VL_GRPO.ipynb`
-  - Open in Colab: https://colab.research.google.com/drive/REPLACE_WITH_YOUR_LINK
+  - Open in Colab: https://colab.research.google.com/drive/1LcZxTTNuZ1LVCehuk_gmj6qlv-Jc6t9t?usp=sharing
 
 - **Colab5 — Continued Pretraining (Mistral 7B v0.3)**
   - Notebook: `Colab5_Mistral_v0_3_(7B)_CPT.ipynb`
