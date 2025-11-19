@@ -25,8 +25,8 @@ A lightweight repo collecting Colab notebooks for modern fine-tuning and reinfor
   - Open in Colab: https://colab.research.google.com/drive/1LcZxTTNuZ1LVCehuk_gmj6qlv-Jc6t9t?usp=sharing
 
 - **Colab5 — Continued Pretraining (Mistral 7B v0.3)**
-  - Notebook: `https://colab.research.google.com/drive/13MdmkU55k-IlUujEGoHYNSc0XT3ieH7N?usp=sharing`
-  - Open in Colab: https://colab.research.google.com/drive/REPLACE_WITH_YOUR_LINK
+  - Notebook: 'Colab5'
+  - Open in Colab: https://colab.research.google.com/drive/13MdmkU55k-IlUujEGoHYNSc0XT3ieH7N?usp=sharing
 
 🎥 **YouTube walkthrough:** https://youtu.be/REPLACE_WITH_YOUR_VIDEO
 
