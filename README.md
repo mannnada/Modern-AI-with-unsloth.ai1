@@ -14,7 +14,7 @@ A lightweight repo collecting Colab notebooks for modern fine-tuning and reinfor
 
 - **Colab2 — LoRA Finetuning (SmolLM2)**
   - Notebook: `Colab2_LoRA_Finetuning_Unsloth_SmolLM2.ipynb`
-  - Open in Colab: https://colab.research.google.com/drive/REPLACE_WITH_YOUR_LINK
+  - Open in Colab: https://colab.research.google.com/drive/1BUjSA-SJFGmvcPKfVkw7TE1yQubxvUrn?usp=sharing
 
 - **Colab3 — GRPO (gpt-oss 20B)**
   - Notebook: `Colab3_gpt_oss_(20B)_GRPO.ipynb`
