@@ -10,7 +10,7 @@ A lightweight repo collecting Colab notebooks for modern fine-tuning and reinfor
 
 - **Colab1 — Full Finetuning (SmolLM2)**
   - Notebook: `Colab1_Full_Finetuning_Unsloth_SmolLM2.ipynb`
-  - Open in Colab: https://colab.research.google.com/drive/REPLACE_WITH_YOUR_LINK
+  - Open in Colab: https://github.com/mannnada/Modern-AI-with-unsloth.ai1/blob/main/README.md
 
 - **Colab2 — LoRA Finetuning (SmolLM2)**
   - Notebook: `Colab2_LoRA_Finetuning_Unsloth_SmolLM2.ipynb`
